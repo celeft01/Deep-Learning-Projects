@@ -1,6 +1,6 @@
 # Deep-Learning-Projects
 
-This repository contains Deep Learning related projects.
+This repository contains Deep Learning related projects including, Convolutional Neural Networks, ResNets, Recurrent Neural Networks, LSTM Networks, Autoencoders and PCA.
 
 ---
 
